@@ -2,7 +2,7 @@
 
 **Things I learnt after rereading concepts from multiple materials:**
 
-**Parameters**
+**Parameters:**
 These are variables _which_ act as placeholders for values that will be passed into a function when it is called.
 
 function myTestFunction(a, b){
@@ -13,9 +13,13 @@ The _a_, _b_ are mere temporary representatives of values that would eventually 
 
 **Arguments:** These are values which are passed into a function when it is called. That is, they are the basis of the action expected from the function into which they are passed.
 
+<code>
+<pre>
 function myTestFunction(2, 5){
    console.log(2, 5);
 }
+</pre>
+</code>
 
 In this instance, the variables "a" and "b" will be equal to 2 and 5 respectively. 
 
