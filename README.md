@@ -12,15 +12,11 @@ function myTestFunction(a, b){
 The _a_, _b_ are mere temporary representatives of values that would eventually be passed into a function when it is *called*, i.e used.
 
 **Arguments:** These are values which are passed into a function when it is called. That is, they are the basis of the action expected from the function into which they are passed.
-
-<code>
 <pre>
 function myTestFunction(2, 5){
    console.log(2, 5);
 }
 </pre>
-</code>
-
 In this instance, the variables "a" and "b" will be equal to 2 and 5 respectively. 
 
 It should be noted that different arguments can be passed into a function multiple times and the parameters.
