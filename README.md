@@ -1,6 +1,6 @@
 **Some Javascripts Concepts**
 
-*Things I learnt after rereading concepts from multiple materials:**
+**Things I learnt after rereading concepts from multiple materials:**
 
 **Parameters**
 These are variables _which_ act as placeholders for values that will be passed into a function when it is called.
